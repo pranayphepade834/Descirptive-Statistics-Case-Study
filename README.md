@@ -40,9 +40,4 @@ The project finds:
 - Employees with salary less than 1000
 - Employees with healthy eating score greater than 8 and salary less than 1000
 
-## How to Run
 
-###  Install Required Libraries
-
-
-pip install pandas numpy matplotlib seaborn
